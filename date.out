@@ -1,0 +1,22 @@
+Testul 1 N = 1000 M = 1000
+
+Sort Python - 0.0 secunde 
+Radix Sort folosind Counting Sort - 0.015625 secunde E ok sortarea!
+Radix Sort folosind Bucket Sort - Baza 10 - 0.0 secunde E ok sortarea!
+Radix Sort folosind Bucket Sort - Baza 2^16 - 0.03125 secunde E ok sortarea!
+Merge Sort - 0.0 secunde E ok sortarea!
+ShellSort - 0.015625 secunde E ok sortarea!
+Quicksort - 0.0 secunde E ok sortarea!
+Heap Sort - 0.0 secunde E ok sortarea!
+
+Testul 2 N = 1000 M = 10000
+
+Sort Python - 0.0 secunde 
+Radix Sort folosind Counting Sort - 0.0 secunde E ok sortarea!
+Radix Sort folosind Bucket Sort - Baza 10 - 0.015625 secunde E ok sortarea!
+Radix Sort folosind Bucket Sort - Baza 2^16 - 0.03125 secunde E ok sortarea!
+Merge Sort - 0.0 secunde E ok sortarea!
+ShellSort - 0.0 secunde E ok sortarea!
+Quicksort - 0.015625 secunde E ok sortarea!
+Heap Sort - 0.0 secunde E ok sortarea!
+
