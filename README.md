@@ -1,4 +1,4 @@
-# TemaLab1POO
+# TemaLab1SD
 Sandu Eduard Alexandru - Grupa 134
 
 Formatul fisierului de intrare este urmatorul:
